@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:58:23.307720
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:09
 #+TITLE: 佛性問答
 #+PROPERTY: CBETA_ID W04n0041
 #+PROPERTY: ID KR6v0052
@@ -11,7 +11,7 @@
 #+PROPERTY: JUAN 1
 ¶
 
-題解¶
+* 題解¶
 整理者　業露華¶
 ¶
 
@@ -36,7 +36,7 @@
 遺書北新1002號整理錄文，無校本。¶
 ¶
 
-錄文¶
+* 錄文¶
 ¶
 
 （首殘）¶
